@@ -1,0 +1,4 @@
+Login admin : localhosts/survei/admin 
+
+username : admin
+password : admin
